@@ -1,0 +1,12 @@
+D:\college\Framework-based Programming\KasirApp\KasirApp\bin\Debug\KasirApp.exe.config
+D:\college\Framework-based Programming\KasirApp\KasirApp\bin\Debug\KasirApp.exe
+D:\college\Framework-based Programming\KasirApp\KasirApp\bin\Debug\KasirApp.pdb
+D:\college\Framework-based Programming\KasirApp\KasirApp\obj\Debug\KasirApp.csproj.AssemblyReference.cache
+D:\college\Framework-based Programming\KasirApp\KasirApp\obj\Debug\KasirApp.csproj.SuggestedBindingRedirects.cache
+D:\college\Framework-based Programming\KasirApp\KasirApp\obj\Debug\KasirApp.FormLogin.resources
+D:\college\Framework-based Programming\KasirApp\KasirApp\obj\Debug\KasirApp.Properties.Resources.resources
+D:\college\Framework-based Programming\KasirApp\KasirApp\obj\Debug\KasirApp.csproj.GenerateResource.cache
+D:\college\Framework-based Programming\KasirApp\KasirApp\obj\Debug\KasirApp.csproj.CoreCompileInputs.cache
+D:\college\Framework-based Programming\KasirApp\KasirApp\obj\Debug\KasirApp.exe
+D:\college\Framework-based Programming\KasirApp\KasirApp\obj\Debug\KasirApp.pdb
+D:\college\Framework-based Programming\KasirApp\KasirApp\bin\Debug\KasirApp1.accdb
